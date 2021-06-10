@@ -141,6 +141,87 @@ Tarea_III_Datos_II/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_III_Datos_II.dir\build.make CMakeFiles/Tarea_III_Datos_II.dir/build
 .PHONY : Tarea_III_Datos_II/fast
 
+ParityChecking/CheckSum.obj: ParityChecking/CheckSum.cpp.obj
+
+.PHONY : ParityChecking/CheckSum.obj
+
+# target to build an object file
+ParityChecking/CheckSum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_III_Datos_II.dir\build.make CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/CheckSum.cpp.obj
+.PHONY : ParityChecking/CheckSum.cpp.obj
+
+ParityChecking/CheckSum.i: ParityChecking/CheckSum.cpp.i
+
+.PHONY : ParityChecking/CheckSum.i
+
+# target to preprocess a source file
+ParityChecking/CheckSum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_III_Datos_II.dir\build.make CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/CheckSum.cpp.i
+.PHONY : ParityChecking/CheckSum.cpp.i
+
+ParityChecking/CheckSum.s: ParityChecking/CheckSum.cpp.s
+
+.PHONY : ParityChecking/CheckSum.s
+
+# target to generate assembly for a file
+ParityChecking/CheckSum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_III_Datos_II.dir\build.make CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/CheckSum.cpp.s
+.PHONY : ParityChecking/CheckSum.cpp.s
+
+ParityChecking/ParityCheckingLRC.obj: ParityChecking/ParityCheckingLRC.cpp.obj
+
+.PHONY : ParityChecking/ParityCheckingLRC.obj
+
+# target to build an object file
+ParityChecking/ParityCheckingLRC.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_III_Datos_II.dir\build.make CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingLRC.cpp.obj
+.PHONY : ParityChecking/ParityCheckingLRC.cpp.obj
+
+ParityChecking/ParityCheckingLRC.i: ParityChecking/ParityCheckingLRC.cpp.i
+
+.PHONY : ParityChecking/ParityCheckingLRC.i
+
+# target to preprocess a source file
+ParityChecking/ParityCheckingLRC.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_III_Datos_II.dir\build.make CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingLRC.cpp.i
+.PHONY : ParityChecking/ParityCheckingLRC.cpp.i
+
+ParityChecking/ParityCheckingLRC.s: ParityChecking/ParityCheckingLRC.cpp.s
+
+.PHONY : ParityChecking/ParityCheckingLRC.s
+
+# target to generate assembly for a file
+ParityChecking/ParityCheckingLRC.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_III_Datos_II.dir\build.make CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingLRC.cpp.s
+.PHONY : ParityChecking/ParityCheckingLRC.cpp.s
+
+ParityChecking/ParityCheckingVRC.obj: ParityChecking/ParityCheckingVRC.cpp.obj
+
+.PHONY : ParityChecking/ParityCheckingVRC.obj
+
+# target to build an object file
+ParityChecking/ParityCheckingVRC.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_III_Datos_II.dir\build.make CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingVRC.cpp.obj
+.PHONY : ParityChecking/ParityCheckingVRC.cpp.obj
+
+ParityChecking/ParityCheckingVRC.i: ParityChecking/ParityCheckingVRC.cpp.i
+
+.PHONY : ParityChecking/ParityCheckingVRC.i
+
+# target to preprocess a source file
+ParityChecking/ParityCheckingVRC.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_III_Datos_II.dir\build.make CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingVRC.cpp.i
+.PHONY : ParityChecking/ParityCheckingVRC.cpp.i
+
+ParityChecking/ParityCheckingVRC.s: ParityChecking/ParityCheckingVRC.cpp.s
+
+.PHONY : ParityChecking/ParityCheckingVRC.s
+
+# target to generate assembly for a file
+ParityChecking/ParityCheckingVRC.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea_III_Datos_II.dir\build.make CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingVRC.cpp.s
+.PHONY : ParityChecking/ParityCheckingVRC.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -177,6 +258,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Tarea_III_Datos_II
+	@echo ... ParityChecking/CheckSum.obj
+	@echo ... ParityChecking/CheckSum.i
+	@echo ... ParityChecking/CheckSum.s
+	@echo ... ParityChecking/ParityCheckingLRC.obj
+	@echo ... ParityChecking/ParityCheckingLRC.i
+	@echo ... ParityChecking/ParityCheckingLRC.s
+	@echo ... ParityChecking/ParityCheckingVRC.obj
+	@echo ... ParityChecking/ParityCheckingVRC.i
+	@echo ... ParityChecking/ParityCheckingVRC.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

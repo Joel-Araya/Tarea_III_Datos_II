@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Acceso rapido/Escritorio/Progra/Tarea_III_Datos_II/ParityChecking/CheckSum.cpp">
+			<Option target="Tarea_III_Datos_II"/>
+		</Unit>
+		<Unit filename="D:/Acceso rapido/Escritorio/Progra/Tarea_III_Datos_II/ParityChecking/CheckSum.h">
+			<Option target="Tarea_III_Datos_II"/>
+		</Unit>
+		<Unit filename="D:/Acceso rapido/Escritorio/Progra/Tarea_III_Datos_II/ParityChecking/ParityCheckingLRC.cpp">
+			<Option target="Tarea_III_Datos_II"/>
+		</Unit>
+		<Unit filename="D:/Acceso rapido/Escritorio/Progra/Tarea_III_Datos_II/ParityChecking/ParityCheckingLRC.h">
+			<Option target="Tarea_III_Datos_II"/>
+		</Unit>
+		<Unit filename="D:/Acceso rapido/Escritorio/Progra/Tarea_III_Datos_II/ParityChecking/ParityCheckingVRC.cpp">
+			<Option target="Tarea_III_Datos_II"/>
+		</Unit>
+		<Unit filename="D:/Acceso rapido/Escritorio/Progra/Tarea_III_Datos_II/ParityChecking/ParityCheckingVRC.h">
+			<Option target="Tarea_III_Datos_II"/>
+		</Unit>
 		<Unit filename="D:/Acceso rapido/Escritorio/Progra/Tarea_III_Datos_II/main.cpp">
 			<Option target="Tarea_III_Datos_II"/>
 		</Unit>

@@ -88,19 +88,64 @@ CMakeFiles/Tarea_III_Datos_II.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_III_Datos_II.dir/main.cpp.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\main.cpp" -o CMakeFiles\Tarea_III_Datos_II.dir\main.cpp.s
 
+CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingVRC.cpp.obj: CMakeFiles/Tarea_III_Datos_II.dir/flags.make
+CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingVRC.cpp.obj: ../ParityChecking/ParityCheckingVRC.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingVRC.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Tarea_III_Datos_II.dir\ParityChecking\ParityCheckingVRC.cpp.obj -c "D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\ParityChecking\ParityCheckingVRC.cpp"
+
+CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingVRC.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingVRC.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\ParityChecking\ParityCheckingVRC.cpp" > CMakeFiles\Tarea_III_Datos_II.dir\ParityChecking\ParityCheckingVRC.cpp.i
+
+CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingVRC.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingVRC.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\ParityChecking\ParityCheckingVRC.cpp" -o CMakeFiles\Tarea_III_Datos_II.dir\ParityChecking\ParityCheckingVRC.cpp.s
+
+CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingLRC.cpp.obj: CMakeFiles/Tarea_III_Datos_II.dir/flags.make
+CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingLRC.cpp.obj: ../ParityChecking/ParityCheckingLRC.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingLRC.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Tarea_III_Datos_II.dir\ParityChecking\ParityCheckingLRC.cpp.obj -c "D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\ParityChecking\ParityCheckingLRC.cpp"
+
+CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingLRC.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingLRC.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\ParityChecking\ParityCheckingLRC.cpp" > CMakeFiles\Tarea_III_Datos_II.dir\ParityChecking\ParityCheckingLRC.cpp.i
+
+CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingLRC.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingLRC.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\ParityChecking\ParityCheckingLRC.cpp" -o CMakeFiles\Tarea_III_Datos_II.dir\ParityChecking\ParityCheckingLRC.cpp.s
+
+CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/CheckSum.cpp.obj: CMakeFiles/Tarea_III_Datos_II.dir/flags.make
+CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/CheckSum.cpp.obj: ../ParityChecking/CheckSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/CheckSum.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Tarea_III_Datos_II.dir\ParityChecking\CheckSum.cpp.obj -c "D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\ParityChecking\CheckSum.cpp"
+
+CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/CheckSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/CheckSum.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\ParityChecking\CheckSum.cpp" > CMakeFiles\Tarea_III_Datos_II.dir\ParityChecking\CheckSum.cpp.i
+
+CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/CheckSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/CheckSum.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\ParityChecking\CheckSum.cpp" -o CMakeFiles\Tarea_III_Datos_II.dir\ParityChecking\CheckSum.cpp.s
+
 # Object files for target Tarea_III_Datos_II
 Tarea_III_Datos_II_OBJECTS = \
-"CMakeFiles/Tarea_III_Datos_II.dir/main.cpp.obj"
+"CMakeFiles/Tarea_III_Datos_II.dir/main.cpp.obj" \
+"CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingVRC.cpp.obj" \
+"CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingLRC.cpp.obj" \
+"CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/CheckSum.cpp.obj"
 
 # External object files for target Tarea_III_Datos_II
 Tarea_III_Datos_II_EXTERNAL_OBJECTS =
 
 Tarea_III_Datos_II.exe: CMakeFiles/Tarea_III_Datos_II.dir/main.cpp.obj
+Tarea_III_Datos_II.exe: CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingVRC.cpp.obj
+Tarea_III_Datos_II.exe: CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/ParityCheckingLRC.cpp.obj
+Tarea_III_Datos_II.exe: CMakeFiles/Tarea_III_Datos_II.dir/ParityChecking/CheckSum.cpp.obj
 Tarea_III_Datos_II.exe: CMakeFiles/Tarea_III_Datos_II.dir/build.make
 Tarea_III_Datos_II.exe: CMakeFiles/Tarea_III_Datos_II.dir/linklibs.rsp
 Tarea_III_Datos_II.exe: CMakeFiles/Tarea_III_Datos_II.dir/objects1.rsp
 Tarea_III_Datos_II.exe: CMakeFiles/Tarea_III_Datos_II.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Tarea_III_Datos_II.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Acceso rapido\Escritorio\Progra\Tarea_III_Datos_II\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Tarea_III_Datos_II.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Tarea_III_Datos_II.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
